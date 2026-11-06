@@ -1,0 +1,24 @@
+{
+  "number": 2,
+  "product_id": "JLZ-EDU-SK-002",
+  "chinese_name": "招生营销活动策划",
+  "english_name": "Enrollment Campaign Planner",
+  "repository_name": "edu-enrollment-campaign-planner",
+  "product_type": "Skill",
+  "category": "01 招生营销中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-enrollment-campaign-planner-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "招生目标、课程产品、预算、时间窗口、目标客群、可用渠道和历史转化",
+  "main_output": "活动主题、机制规则、执行排期、预算表、目标拆解、复盘指标",
+  "package_entries": [
+    "edu-enrollment-campaign-planner/SKILL.md",
+    "edu-enrollment-campaign-planner/references/DOMAIN_GUIDE.md",
+    "edu-enrollment-campaign-planner/references/EXAMPLES.md",
+    "edu-enrollment-campaign-planner/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
