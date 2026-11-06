@@ -3,8 +3,8 @@
   "repository_name": "edu-enrollment-campaign-planner",
   "product_type": "Skill",
   "version": "1.0.0",
-  "tested_at": "2026-11-06T21:33:02.3847162+08:00",
-  "tested_tree_sha": "efa47726f305cb204bb1b1997d43c333597dc511",
+  "tested_at": "2026-11-06T21:53:43.4671115+08:00",
+  "tested_tree_sha": "f7b6683e14d699c4ce0e1e7bf0ee873984168052",
   "package_path": "dist/edu-enrollment-campaign-planner-v1.0.0.zip",
   "package_sha256": "2C32A376D2026D27C564F26118B7A6C5CBFEB4B901D5133988C399C138B824E4",
   "checks": {
